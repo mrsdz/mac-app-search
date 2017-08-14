@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """This module is for parsing arguments"""
 import urllib
 import requests
